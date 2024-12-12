@@ -29,12 +29,12 @@
     .mom{
         margin-left: 50px;
         width: 300px;
-        margin-top: 150px;
+        margin-top: 0px;
     } 
 
     .bog{
         flex-direction: column;
-        width: 370px;
+        width: 70px;
     }
 
     .formi {
@@ -167,7 +167,9 @@
         margin-top: 100px;
     }
 
-    
+    .alas {
+        margin-top: 100px;
+    } 
 
     
 }
