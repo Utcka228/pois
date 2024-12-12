@@ -1,0 +1,579 @@
+.bod {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.bd {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+.header {
+    background-color: black;
+}
+
+.headercenter {
+    height: 80px;
+    display: flex;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.zakazatsayt {
+    color: rgb(0, 0, 0);
+    margin-left: 285px;
+    margin-top: 27px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    width: 116px;
+    height: 26px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+
+}
+
+.headerseredina {
+    display: flex;
+}
+
+.comanda {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 105px;
+    margin-top: 31px;
+    margin-left: 200px;
+    height: 10px;
+}
+
+.proecti {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 110px;
+    margin-top: 31px;
+    margin-left: 45px;
+    height: 10px;
+}
+
+.otzivi{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: 50px;
+    margin-top: 31px;
+    margin-left: 40px;
+    height: 10px;
+}
+
+.comanda:hover {
+    color: #0a7500;
+    font-size: 17px;
+}
+
+.otzivi:hover {
+    color: #0a7500;
+    font-size: 17px;
+}
+
+.proecti:hover {
+    color: #0a7500;
+    font-size: 17px;
+}
+
+.niz{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+
+.zal{
+    width: 1226px;
+    margin-left: 145px;
+
+}
+
+.posle {
+    margin-top: 0px;
+
+}
+
+.mom {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin-left: 145px;
+}
+
+.kol {
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+
+}
+
+.zakazatsaytsered {
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 146px;
+    height: 28px;
+    margin-left: 250px;
+}
+
+.zeni {
+    background-color: rgb(255, 255, 255);
+    height: 1050px;
+    width: 1903px;
+}
+
+.formi {
+    margin-left: 475px;
+    width: 280px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/pasted_image_0.png);
+}
+
+.kal {
+    height: 80px;
+    margin-left: 100px;
+}
+
+.fo {
+    margin-left: 50px;
+    width: 280px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/card2.png);
+}
+
+.f{
+    width: 280px;
+    margin-left: 50px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/card1.png);
+}
+
+.po {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 220px;
+    width: 226px;
+    height: 33px;
+    margin-left: 27px;
+
+
+}
+
+.o {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 226px;
+    height: 33px;
+    margin-left: 27px;
+    font-size: 13px;
+    margin-top: 220px;
+
+}
+
+.flo {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 226px;
+    height: 33px;
+    margin-left: 27px;
+    font-size: 13px;
+    margin-top: 183px;
+
+}
+
+.bog {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.l {
+    width: 400px;
+    margin-left: 520px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/15d80bf281f0486763940e92e4c9e534.jpg);
+}
+
+.yo {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 376px;
+    height: 35px;
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: 230px;
+}
+
+.poylo {
+    width: 400px;
+    margin-left: 50px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 41px;
+    background-image: url(images/dop.png);
+}
+
+.poyl {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 376px;
+    height: 35px;
+    font-size: 13px;
+    margin-left: 11px;
+    margin-top: 174px;
+}
+
+.vremya {
+    background-color: rgb(0, 0, 0);
+    height: 400px;
+    width: 1903px;
+    display: flex;
+    flex-direction: row;
+}
+
+.vremya2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 440px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.raz {
+    margin-right: 5px;
+
+}
+
+.rab {
+    width: 40px;
+    margin-left: 5px;
+}
+
+.vremya3 {
+    width: 210px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 40px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.vremya4 {
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 40px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.vremya5 {
+    width: 270px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 40px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+
+}
+
+.not {
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 1903px;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+.ton {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/1b52f7a102851337f2502b6d24accdfa.png);
+    margin-left: 50px;
+
+}
+
+.tonic {    
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/html5.png);
+    margin-left: 50px;
+
+}
+
+.toni {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/bc562e13d1c90cf468da42d1bd168fab.jpg);
+    margin-left: 50px;
+
+}
+
+.on {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/medium_65711d03931c5a42e90e6a0a40b95eaa.jpg);
+    margin-left: 50px;
+
+}
+
+.tn {
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+    width: 210px;
+    height: 200px;
+    background-image: url(images/Variabel-Dalam-pemrograman-Javascript.jpg);
+    margin-left: 300px;
+
+}
+
+.nro {
+    background-color: rgb(0, 0, 0);
+    height: 110px;
+    width: 1903px;
+    display: flex;
+    flex-direction: row;
+}
+
+.zak {
+    color: rgb(0, 0, 0);
+    margin-left: 0px;
+    margin-top: 27px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    width: 116px;
+    height: 26px;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+}
+
+.nitrom {
+    margin-left: 1270px;
+    margin-left: 1270px;
+    margin-right: 40px;
+
+}
+
+.vibor {
+    display: flex;
+    flex-direction: column;
+}
+
+.vibori {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.viborin {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.vibo {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.vib {
+    width: 246px;
+    height: 31px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.vb {
+    width: 246px;
+    height: 31px;
+    border-radius: 10px;
+}
+
+.bodali {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+
+.pif {
+    display: flex;
+    flex-direction: column;
+    width: 305px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.imya {
+    margin-top: 0px;
+    margin-bottom: 16px;
+    color: rgb(255, 255, 255);
+}
+
+.n {
+    margin-bottom: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-radius: 10px;
+
+
+}
+
+.e{
+    margin-bottom: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-radius: 10px;
+
+}
+
+.p{
+    margin-bottom: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-radius: 10px;
+
+}
+
+.oooo {
+    padding-left: 8px;
+    padding-top: 0px;
+    padding-right: 8px;
+    padding-bottom: 0px;
+    border-bottom-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    height: 27px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 15px;
+    margin-bottom: 0px;
+    color: #000000;
+    margin-left: 55px;
+
+}
+
+.razrab {
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+    width: 315px;
+    height: 230px;
+}
+
+.razrabi {
+    border-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-style: solid;
+    width: 315px;
+    height: 250px;
+}
+
+.shkola {
+    background-color: black;
+    height: 1000px;
+    width: 1903px;
+}
+
+.ribo {
+    width: 800px;
+}
